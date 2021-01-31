@@ -2,14 +2,14 @@
 
 Insurance companies take risks over customers. Risk management is a very important aspect of the insurance industry. Insurers consider every quantifiable factor to develop profiles of high and low insurance risks. Insurers collect vast amounts of information about policyholders and analyze the data. As a Data scientist in an insurance company, we need to analyze the available data and predict whether to sanction the insurance or not.
 
-#### Dataset Description
+### Dataset Description
    
   * The training dataset consists of data corresponding to 52310 customers and the test dataset consists of 22421 customers.
         
         
         
 
-#### Following are the features of the dataset.
+### Following are the features of the dataset.
 
 * Target: Claim Status (Claim)
 * Name of agency (Agency)
