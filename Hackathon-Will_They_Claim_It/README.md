@@ -23,6 +23,6 @@ Insurance companies take risks over customers. Risk management is a very importa
 * Age of insured (Age)
 * The identification record of every observation (ID)
 
-### Data Description
+### Dataset statistical Summary
 
 ![Will_They_Claim_It_Data_Description](https://user-images.githubusercontent.com/60111157/106393383-c7dddd00-641c-11eb-9ef1-e6c26dbb78ca.PNG)
